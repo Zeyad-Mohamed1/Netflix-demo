@@ -1,10 +1,10 @@
 # Features of The project
 
 🌐 Nextjs App Router <br/>
-💿 Supabase Database
-🎨 Styling with Tailwind and Shadcn UI
-🔐 Next-Auth Authentication
-🔑 OAuth (Google and GitHub)
-📧 Passwordless Auth
-💨 Prisma ORM
+💿 Supabase Database <br/>
+🎨 Styling with Tailwind and Shadcn UI <br/>
+🔐 Next-Auth Authentication <br/>
+🔑 OAuth (Google and GitHub) <br/>
+📧 Passwordless Auth <br/>
+💨 Prisma ORM <br/>
 😶‍🌫️ Deployment to Vercel
