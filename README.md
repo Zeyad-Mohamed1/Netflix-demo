@@ -1,6 +1,6 @@
 # Features of The project
 
-🌐 Nextjs App Router
+🌐 Nextjs App Router <br/>
 💿 Supabase Database
 🎨 Styling with Tailwind and Shadcn UI
 🔐 Next-Auth Authentication
